@@ -37,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "create-react-component-folder": "^0.3.7",
     "eslint-plugin-react-hooks": "^4.3.0"
   }
 }
